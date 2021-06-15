@@ -1,0 +1,124 @@
+.head {
+  border-radius: 10%;
+  background-color: #87556f;
+  display: inline-block;
+  padding: 25px 50px;
+}
+
+.backgrounddiv {
+  display: inline-block;
+  position: relative;
+  top: 250px;
+}
+
+.roll {
+  display: inline-block;
+  border-radius: 10%;
+  padding: 7.5px 10px;
+  position: relative;
+  top: 20px;
+}
+
+.left {
+  display: inline-block;
+  background-color: #221f3b;
+  border-radius: 10%;
+  padding: 50px 100px;
+  position: relative;
+  bottom: 80px;
+  right: 10px;
+}
+
+.right {
+  display: inline-block;
+  background-color: #221f3b;
+  border-radius: 10%;
+  padding: 50px 100px;
+  position: relative;
+  bottom: 80px;
+  left: 10px;
+}
+
+.luck {
+  color: black;
+}
+
+#dice1 {
+  color: white;
+}
+
+#dice2 {
+  color: white;
+}
+
+.dots1 {
+  font-size: 25px;
+}
+
+.dots2 {
+  font-size: 25px;
+}
+
+.dots3 {
+  font-size: 25px;
+}
+
+.dots4 {
+  font-size: 25px;
+}
+
+.dots5 {
+  font-size: 25px;
+}
+
+.dots6 {
+  font-size: 25px;
+}
+
+.dots7 {
+  font-size: 25px;
+}
+
+.dots8 {
+  font-size: 25px;
+}
+
+.dots9 {
+  font-size: 25px;
+}
+
+.dots10 {
+  font-size: 25px;
+}
+
+.dots11 {
+  font-size: 25px;
+}
+
+.dots12 {
+  font-size: 25px;
+}
+
+.dots13 {
+  font-size: 25px;
+}
+
+.dots14 {
+  font-size: 25px;
+}
+
+.dots15 {
+  font-size: 25px;
+}
+
+.dots16 {
+  font-size: 25px;
+}
+
+.dots17 {
+  font-size: 25px;
+}
+
+.dots18 {
+  font-size: 25px;
+}
